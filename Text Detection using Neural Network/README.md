@@ -2,4 +2,5 @@
 
 
 ### outputs:- 
-<img src="outputs/o.png" width="300" height="300">
+<img src="outputs/o.png" width="300" height="300">  <img src="outputs/4.png" width="300" height="300">  <img src="outputs/7.png" width="300" height="300">  
+<img src="outputs/8.png" width="300" height="300">  <img src="outputs/9.png" width="300" height="300">  
