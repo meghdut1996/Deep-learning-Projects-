@@ -2,4 +2,4 @@
 
 
 ### outputs:- 
-<img src="outputs/0.png" width=300, height=300>
+<img src="outputs/0.png" width="300", height="300">
